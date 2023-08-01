@@ -9,8 +9,7 @@ class Solution {
                 min=i
             }
         }
-        
-        val answer = intArrayOf(num3/min, denom3/min)
-        return answer
+
+        return intArrayOf(num3/min, denom3/min)
     }
 }
